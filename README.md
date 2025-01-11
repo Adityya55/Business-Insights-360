@@ -8,7 +8,6 @@ In this project, we have implemented data analytics using Power BI to empower At
 - [Business Terminology](#business-terminology)
 - [Company Background](#company-background)
 - [Dataset](#dataset)
-- [Dashboard](#dashboard)
 
 # Introduction
 AtliQ Hardware, a global leader in computer and computer accessories sales, has embarked on a journey to leverage the power of data analytics using Power BI. This project aims to provide answers to stakeholders' questions related to finance, sales, marketing, and supply chain management, enabling the company to stay ahead in the competitive market landscape.
@@ -107,26 +106,3 @@ Data modeling plays a pivotal role and serves as the foundation for generating m
 In the context of this project, we have meticulously followed the Snowflake data modeling method. This approach involves structuring data into normalized forms, resulting in reduced redundancy and improved query performance. This methodology enhances the way we organize and process data, ensuring optimal results for our analysis.
 
 Remember, a robust data model is the cornerstone of effective data analysis and reporting. By employing sound data modeling practices, we can confidently generate insightful visualizations that empower data-driven decision-making.
-
-## Dashboard
-
-### Home View
-Data Modeling
-
-### Finance View
-Data Modeling
-
-### Sales View
-Data Modeling
-
-### Marketing View
-Data Modeling
-
-### Supply Chain View
-Data Modeling
-
-### Executive View
-Data Modeling
-
-### Info Page
-Data Modeling
